@@ -1,23 +1,21 @@
 ManifestFileVersion: 0
-CRC: 2153405157
+CRC: 4064229121
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: ui_elements
+      Name: scriptable_objects
       Dependencies: {}
     Info_1:
-      Name: prefabs
-      Dependencies:
-        Dependency_0: temporary_prefabs
-    Info_2:
       Name: temporary_prefabs
       Dependencies: {}
+    Info_2:
+      Name: prefabs
+      Dependencies: {}
     Info_3:
-      Name: ui_windows
-      Dependencies:
-        Dependency_0: ui_elements
+      Name: ui_elements
+      Dependencies: {}
     Info_4:
-      Name: scriptable_objects
+      Name: ui_windows
       Dependencies: {}
     Info_5:
       Name: core_prefabs

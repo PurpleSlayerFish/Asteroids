@@ -1,12 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2842215611
+CRC: 495197901
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 89e4ffedc8d1c9f00da9a0db18fe525e
+    Hash: 5d42adb3c2efa0c5092fd58c5c1dc82d
   TypeTreeHash:
     serializedVersion: 2
-    Hash: aff55f4cb3c340014c2f57fdae99c6e0
+    Hash: 7888e0f2d03050eeae6097e1b2745cd2
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 5d42adb3c2efa0c5092fd58c5c1dc82d
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -26,17 +29,17 @@ ClassTypes:
 - Class: 95
   Script: {instanceID: 0}
 - Class: 114
+  Script: {fileID: 11500000, guid: 10bcfc72d3074911afebdbb5efb33b84, type: 3}
+- Class: 114
   Script: {fileID: 11500000, guid: 62899f850307741f2a39c98a8b639597, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 7bbb23d980e143ee85162f9d3d18fa8c, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 39fa3d8997a24136984ca6e2c99902bc, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 76471724184c445bafe54412f6190e9f, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 36bb4a9f18804466a169fe6748d52dd5, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 10bcfc72d3074911afebdbb5efb33b84, type: 3}
+  Script: {fileID: 11500000, guid: 76471724184c445bafe54412f6190e9f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 39fa3d8997a24136984ca6e2c99902bc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7bbb23d980e143ee85162f9d3d18fa8c, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 212
@@ -73,5 +76,4 @@ Assets:
 - Assets/AssetBundles/Prefabs/Objects/Asteroid.prefab
 - Assets/AssetBundles/Prefabs/Objects/Player.prefab
 - Assets/AssetBundles/Prefabs/Objects/Alien.prefab
-Dependencies:
-- C:/Users/alex2/Desktop/Skytec Games/Assets/AssetBundles/Bundles/temporary_prefabs
+Dependencies: []

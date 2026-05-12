@@ -1,12 +1,15 @@
 ManifestFileVersion: 0
-CRC: 3957697113
+CRC: 3861286486
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: d69b2a36ebd63fc484bf7c82a561bdc7
+    Hash: 4c51911e0978105f6caabf1411616581
   TypeTreeHash:
     serializedVersion: 2
-    Hash: a68d87f64ae4cc93335b7a280f7d35d9
+    Hash: 78ed7652f2a0d74a5f23c30c136f567b
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4c51911e0978105f6caabf1411616581
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -18,39 +21,39 @@ ClassTypes:
 - Class: 48
   Script: {instanceID: 0}
 - Class: 114
-  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: a895cd0fdb944730ad96a1c63174abc2, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 4559564ace1248c28f93b30b41e85060, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 3525c3a527b84c049ce1488facf53175, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: f83f050301554a43b460ecacebc956a1, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f105fc154a544b399fb527c26731825f, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: b2a664f24fb04e19a4f448adab25fe8d, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 4ba0e28b30594df695b7ae444c4e9345, type: 3}
+  Script: {fileID: 11500000, guid: 059959025937486eac3920f6747b5c8c, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+  Script: {fileID: 11500000, guid: 3525c3a527b84c049ce1488facf53175, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4559564ace1248c28f93b30b41e85060, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a895cd0fdb944730ad96a1c63174abc2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f83f050301554a43b460ecacebc956a1, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 059959025937486eac3920f6747b5c8c, type: 3}
+  Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: f105fc154a544b399fb527c26731825f, type: 3}
+  Script: {fileID: 11500000, guid: 4ba0e28b30594df695b7ae444c4e9345, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 213
@@ -110,5 +113,4 @@ Assets:
 - Assets/AssetBundles/Prefabs/UI/Windows/LoadingWindow.prefab
 - Assets/AssetBundles/Prefabs/UI/Windows/GameWindow.prefab
 - Assets/AssetBundles/Prefabs/UI/Windows/PauseWindow.prefab
-Dependencies:
-- C:/Users/alex2/Desktop/Skytec Games/Assets/AssetBundles/Bundles/ui_elements
+Dependencies: []

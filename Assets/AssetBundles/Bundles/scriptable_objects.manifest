@@ -1,22 +1,25 @@
 ManifestFileVersion: 0
-CRC: 2506177006
+CRC: 2610131956
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 3d1ae2516d79fb9b2d3a3f517cf59ea9
+    Hash: 9f6761304b720d0929c52890f61b0ae3
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 75036bdecf7eb8770308060eba06fb2e
+    Hash: 88b9858324222405481197f648752bb9
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 9f6761304b720d0929c52890f61b0ae3
 HashAppended: 0
 ClassTypes:
 - Class: 28
   Script: {instanceID: 0}
 - Class: 114
-  Script: {fileID: 11500000, guid: 675bbcef96bb40a587668ab15d68cd5f, type: 3}
+  Script: {fileID: 11500000, guid: 54dbc1cac33749eb8c4974cd733aba4a, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: f44ddf304d37434e8e7a70bd7b4c49c8, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 54dbc1cac33749eb8c4974cd733aba4a, type: 3}
+  Script: {fileID: 11500000, guid: 675bbcef96bb40a587668ab15d68cd5f, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: ae35a568501045568e72692298efad49, type: 3}
 - Class: 115
@@ -25,11 +28,11 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers:
 - AssemblyName: Assembly-CSharp
-  ClassName: PurpleSlayerFish.Core.Model.Services.Pools.Config.PoolData
+  ClassName: PurpleSlayerFish.Core.Services.Pools.Config.PoolData
 - AssemblyName: Assembly-CSharp
-  ClassName: PurpleSlayerFish.Core.Model.Services.Pools.Config.TempPoolData
+  ClassName: PurpleSlayerFish.Core.Services.Pools.Config.TempPoolData
 - AssemblyName: Assembly-CSharp
-  ClassName: PurpleSlayerFish.Core.Model.Services.ScriptableObjects.AsteroidSize.AsteroidSize
+  ClassName: PurpleSlayerFish.Core.Services.ScriptableObjects.AsteroidSize.AsteroidSize
 Assets:
 - Assets/Settings/TempPoolConfig.asset
 - Assets/Settings/GameConfig.asset
