@@ -15,14 +15,17 @@ J - Огонь
 K - Лазер
 Esc - Пауза
 
-
+<br>
+<br>
 
 <img width="1511" height="833" alt="image" src="https://github.com/user-attachments/assets/f8d4c6a5-68db-46ec-aa12-9b78c0370bce" />
 
-
+<br>
+<br>
 
 <img width="1512" height="841" alt="image" src="https://github.com/user-attachments/assets/f3ca05da-4516-439b-83af-f11000fed52f" />
 
-
+<br>
+<br>
 
 <img width="1512" height="840" alt="image" src="https://github.com/user-attachments/assets/fe05df84-392b-4cbd-a7fd-0ef881a47c1a" />
