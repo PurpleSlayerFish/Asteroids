@@ -16,15 +16,16 @@ K - Лазер
 Esc - Пауза
 
 <br>
-<br>
 
 <img width="1511" height="833" alt="image" src="https://github.com/user-attachments/assets/f8d4c6a5-68db-46ec-aa12-9b78c0370bce" />
 
 <br>
 <br>
+<br>
 
 <img width="1512" height="841" alt="image" src="https://github.com/user-attachments/assets/f3ca05da-4516-439b-83af-f11000fed52f" />
 
+<br>
 <br>
 <br>
 
